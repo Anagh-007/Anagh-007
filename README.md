@@ -25,10 +25,6 @@
 
 </div>
 
-<br>
-
-<img width="100%" src="https://github.com/Anagh-007/Anagh-007/raw/output/github-contribution-grid-snake.svg" alt="divider snake"/>
-
 ## `~/` whoami
 
 ```console
@@ -139,37 +135,18 @@ state layer and chart-driven progress views.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-**AI-Based Network Failure Diagnosis** · IEEE Conference Paper
-<br>
-Random Forest · XGBoost · SHAP explainability on the CICIDS2017 dataset
-<br>
-<sub>Written and formatted end-to-end in LaTeX/Overleaf under the IEEEtran conference class</sub>
-
-</td>
-</tr>
-</table>
+| paper | link |
+|---|---|
+| **Real-Time Face Detection using Webcam Based on Haar Cascade Classifier** | [zenodo.org/records/19676262](https://zenodo.org/records/19676262) |
+| **Healthcare Monitoring AI Agent for Personalized Wellness Tracking and Intelligent Diagnosis** | [zenodo.org/records/17974819](https://zenodo.org/records/17974819) |
+| **Fitness Tracker App using Flutter** | [zenodo.org/records/17483721](https://zenodo.org/records/17483721) |
+| **An Explainable Ensemble Machine Learning Framework for Phishing Website Detection with Robustness and Deployment Readiness Evaluation** | [doi.org/10.55041/ijcope.v2i4.970](https://doi.org/10.55041/ijcope.v2i4.970) |
 
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39D353"/>
-
-## `~/` contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anagh-007&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution graph">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Anagh-007/Anagh-007/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-
-</div>
 
 ## `~/` the numbers
 
@@ -181,10 +158,6 @@ Random Forest · XGBoost · SHAP explainability on the CICIDS2017 dataset
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anagh-007&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0D1117&title_color=39D353&text_color=c9d1d9" height="180" alt="most used languages">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anagh-007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" alt="achievements">
 
 </div>
 
