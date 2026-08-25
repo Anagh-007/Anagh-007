@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="420" viewBox="0 0 500 420">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<text x="250" y="28" text-anchor="middle" fill="#39D353" font-family="Arial" font-size="16" font-weight="700">Skill Radar</text>
+<polygon points="250.0,186.2 273.9,196.1 283.8,220.0 273.9,243.9 250.0,253.8 226.1,243.9 216.2,220.0 226.1,196.1" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="250.0,152.5 297.7,172.3 317.5,220.0 297.7,267.7 250.0,287.5 202.3,267.7 182.5,220.0 202.3,172.3" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="250.0,118.8 321.6,148.4 351.2,220.0 321.6,291.6 250.0,321.2 178.4,291.6 148.8,220.0 178.4,148.4" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="250.0,85.0 345.5,124.5 385.0,220.0 345.5,315.5 250.0,355.0 154.5,315.5 115.0,220.0 154.5,124.5" fill="none" stroke="#30363d" stroke-width="1"/>
+<line x1="250.0" y1="213.2" x2="250.0" y2="85.0" stroke="#30363d"/>
+<text x="250.0" y="53.0" text-anchor="middle" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">AI/ML</text>
+<line x1="254.8" y1="215.2" x2="345.5" y2="124.5" stroke="#30363d"/>
+<text x="368.1" y="101.9" text-anchor="start" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">Computer Vision</text>
+<line x1="256.8" y1="220.0" x2="385.0" y2="220.0" stroke="#30363d"/>
+<text x="417.0" y="220.0" text-anchor="start" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">LLMs/RAG</text>
+<line x1="254.8" y1="224.8" x2="345.5" y2="315.5" stroke="#30363d"/>
+<text x="368.1" y="338.1" text-anchor="start" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">Python</text>
+<line x1="250.0" y1="226.8" x2="250.0" y2="355.0" stroke="#30363d"/>
+<text x="250.0" y="387.0" text-anchor="middle" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">Full-Stack</text>
+<line x1="245.2" y1="224.8" x2="154.5" y2="315.5" stroke="#30363d"/>
+<text x="131.9" y="338.1" text-anchor="end" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">C++</text>
+<line x1="243.2" y1="220.0" x2="115.0" y2="220.0" stroke="#30363d"/>
+<text x="83.0" y="220.0" text-anchor="end" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">Java</text>
+<line x1="245.2" y1="215.2" x2="154.5" y2="124.5" stroke="#30363d"/>
+<text x="131.9" y="101.9" text-anchor="end" dominant-baseline="middle" fill="#f0f6fc" font-family="Arial" font-size="11">Problem Solving</text>
+<polygon points="250.0,95.8 334.0,136.0 366.1,220.0 337.8,307.8 250.0,330.7 169.8,300.2 147.4,220.0 164.1,134.1" fill="#39D353" fill-opacity="0.25" stroke="#39D353" stroke-width="2"/>
+<circle cx="250.0" cy="95.8" r="3.5" fill="#39D353"/>
+<circle cx="334.0" cy="136.0" r="3.5" fill="#39D353"/>
+<circle cx="366.1" cy="220.0" r="3.5" fill="#39D353"/>
+<circle cx="337.8" cy="307.8" r="3.5" fill="#39D353"/>
+<circle cx="250.0" cy="330.7" r="3.5" fill="#39D353"/>
+<circle cx="169.8" cy="300.2" r="3.5" fill="#39D353"/>
+<circle cx="147.4" cy="220.0" r="3.5" fill="#39D353"/>
+<circle cx="164.1" cy="134.1" r="3.5" fill="#39D353"/>
+</svg>

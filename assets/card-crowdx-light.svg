@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260">
+<rect x="1" y="1" width="838" height="258" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="32" cy="32" r="10" fill="#39D353"/>
+<text x="58" y="42" fill="#24292f" font-family="Arial" font-size="26" font-weight="700">CrowdX</text>
+<text x="32" y="88" fill="#57606a" font-family="Arial" font-size="16">Crowd Crush Prevention System</text>
+<text x="32" y="130" fill="#39D353" font-family="monospace" font-size="15">Python • OpenCV • YOLOv8 • DeepSORT • FastAPI</text>
+<line x1="32" y1="155" x2="808" y2="155" stroke="#d8dee4"/>
+<text x="32" y="194" fill="#24292f" font-family="Arial" font-size="14">Built as a practical real-time / intelligent software project.</text>
+<text x="32" y="224" fill="#57606a" font-family="Arial" font-size="13">AI • Software Engineering • Real-World Applications</text>
+</svg>
