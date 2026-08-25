@@ -3,8 +3,8 @@
 <!-- ANIMATED WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A20,100:39D353&height=220&section=header&text=R%20Anaghskanda%20Bharadwaj&fontSize=42&fontColor=39D353&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=8FE3A6"/>
 
-<!-- GREEN DOT-MATRIX PORTRAIT -->
-<img src="assets/portrait.svg" width="220" alt="R Anaghskanda Bharadwaj, rendered as a dot matrix">
+<!-- GREEN DOT-MATRIX PORTRAIT -> TRANSITIONS INTO THE REAL PHOTO, LOOPS -->
+<img src="assets/portrait.gif" width="240" alt="R Anaghskanda Bharadwaj — green dot matrix transitioning into portrait photo">
 
 <br>
 
@@ -32,7 +32,7 @@
 ## `~/` whoami
 
 ```console
-anagh@rvitm:~$ cat about.txt
+bharadwajanaghskanda@gmail.com:~$ cat about.txt
 ```
 
 > Final-year Computer Science Engineering student at **RVITM, Bengaluru** (Class of 2027), building at the
@@ -49,11 +49,17 @@ anagh@rvitm:~$ cat about.txt
 
 <br>
 
-## `~/` toolbox
+## `~/` languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,react,nodejs,flutter,fastapi,flask,opencv,mongodb,mysql,git,github,vscode,androidstudio,html,css,tailwind,linux&perline=11" alt="tech stack">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=39D353" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 
 <br><br>
 
@@ -170,7 +176,7 @@ Random Forest · XGBoost · SHAP explainability on the CICIDS2017 dataset
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anagh-007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" height="180" alt="GitHub statistics">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anagh-007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353" height="180" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=Anagh-007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353" height="180" alt="GitHub streak">
 
 <br>
 
